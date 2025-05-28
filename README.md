@@ -23,7 +23,7 @@ This repository contains a set of images generated or processed on May 29, 2025.
   <a href="./ComfyUI_00912_.png"><img src="./ComfyUI_00912_.png" width="200"/></a>
 </p>
 
-## Originals and Other Images
+## Originals
 
 <p float="left">
   <a href="./original 1.webp"><img src="./original 1.webp" width="200"/></a>
