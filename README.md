@@ -4,6 +4,10 @@ This repository contains a set of images generated or processed on May 29, 2025.
 
 ## ComfyUI PNG Images
 
+<a href="./До.png"><img src="./До.png" width="400"/></a>
+<a href="./Снимок экрана 2025-05-29 010249.png"><img src="./Снимок экрана 2025-05-29 010249.png" width="200"/></a>
+<a href="./Снимок экрана 2025-05-29 010258.png"><img src="./Снимок экрана 2025-05-29 010258.png" width="200"/></a>
+
 <p float="left">
   <a href="./ComfyUI_00887_.png"><img src="./ComfyUI_00887_.png" width="200"/></a>
   <a href="./ComfyUI_00888_.png"><img src="./ComfyUI_00888_.png" width="200"/></a>
@@ -27,9 +31,6 @@ This repository contains a set of images generated or processed on May 29, 2025.
   <a href="./original 3.png"><img src="./original 3.png" width="200"/></a>
   <a href="./original 4.jpg"><img src="./original 4.jpg" width="200"/></a>
   <a href="./original 5.webp"><img src="./original 5.webp" width="200"/></a>
-  <a href="./До.png"><img src="./До.png" width="200"/></a>
-  <a href="./Снимок экрана 2025-05-29 010249.png"><img src="./Снимок экрана 2025-05-29 010249.png" width="200"/></a>
-  <a href="./Снимок экрана 2025-05-29 010258.png"><img src="./Снимок экрана 2025-05-29 010258.png" width="200"/></a>
 </p>
 
 ## Files
